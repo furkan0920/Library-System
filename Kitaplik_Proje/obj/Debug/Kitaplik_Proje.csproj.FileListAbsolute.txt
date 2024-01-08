@@ -1,0 +1,22 @@
+C:\Programmin works\C# uygulama geliştirerek\Kitaplik_Proje\Kitaplik_Proje\obj\Debug\Kitaplik_Proje.csproj.AssemblyReference.cache
+C:\Programmin works\C# uygulama geliştirerek\Kitaplik_Proje\Kitaplik_Proje\obj\Debug\Kitaplik_Proje.csproj.SuggestedBindingRedirects.cache
+C:\Programmin works\C# uygulama geliştirerek\Kitaplik_Proje\Kitaplik_Proje\obj\Debug\Kitaplik_Proje.Form1.resources
+C:\Programmin works\C# uygulama geliştirerek\Kitaplik_Proje\Kitaplik_Proje\obj\Debug\Kitaplik_Proje.Properties.Resources.resources
+C:\Programmin works\C# uygulama geliştirerek\Kitaplik_Proje\Kitaplik_Proje\obj\Debug\Kitaplik_Proje.csproj.GenerateResource.cache
+C:\Programmin works\C# uygulama geliştirerek\Kitaplik_Proje\Kitaplik_Proje\obj\Debug\Kitaplik_Proje.csproj.CoreCompileInputs.cache
+C:\Programmin works\C# uygulama geliştirerek\Kitaplik_Proje\Kitaplik_Proje\bin\Debug\Kitaplik_Proje.exe.config
+C:\Programmin works\C# uygulama geliştirerek\Kitaplik_Proje\Kitaplik_Proje\bin\Debug\Kitaplik_Proje.exe
+C:\Programmin works\C# uygulama geliştirerek\Kitaplik_Proje\Kitaplik_Proje\bin\Debug\Kitaplik_Proje.pdb
+C:\Programmin works\C# uygulama geliştirerek\Kitaplik_Proje\Kitaplik_Proje\obj\Debug\Kitaplik_Proje.exe
+C:\Programmin works\C# uygulama geliştirerek\Kitaplik_Proje\Kitaplik_Proje\obj\Debug\Kitaplik_Proje.pdb
+C:\Programmin works\Udemy C#\C# uygulama geliştirerek\Kitaplik_Proje\Kitaplik_Proje\bin\Debug\Kitaplik_Proje.exe.config
+C:\Programmin works\Udemy C#\C# uygulama geliştirerek\Kitaplik_Proje\Kitaplik_Proje\bin\Debug\Kitaplik_Proje.exe
+C:\Programmin works\Udemy C#\C# uygulama geliştirerek\Kitaplik_Proje\Kitaplik_Proje\bin\Debug\Kitaplik_Proje.pdb
+C:\Programmin works\Udemy C#\C# uygulama geliştirerek\Kitaplik_Proje\Kitaplik_Proje\obj\Debug\Kitaplik_Proje.csproj.AssemblyReference.cache
+C:\Programmin works\Udemy C#\C# uygulama geliştirerek\Kitaplik_Proje\Kitaplik_Proje\obj\Debug\Kitaplik_Proje.csproj.SuggestedBindingRedirects.cache
+C:\Programmin works\Udemy C#\C# uygulama geliştirerek\Kitaplik_Proje\Kitaplik_Proje\obj\Debug\Kitaplik_Proje.Form1.resources
+C:\Programmin works\Udemy C#\C# uygulama geliştirerek\Kitaplik_Proje\Kitaplik_Proje\obj\Debug\Kitaplik_Proje.Properties.Resources.resources
+C:\Programmin works\Udemy C#\C# uygulama geliştirerek\Kitaplik_Proje\Kitaplik_Proje\obj\Debug\Kitaplik_Proje.csproj.GenerateResource.cache
+C:\Programmin works\Udemy C#\C# uygulama geliştirerek\Kitaplik_Proje\Kitaplik_Proje\obj\Debug\Kitaplik_Proje.csproj.CoreCompileInputs.cache
+C:\Programmin works\Udemy C#\C# uygulama geliştirerek\Kitaplik_Proje\Kitaplik_Proje\obj\Debug\Kitaplik_Proje.exe
+C:\Programmin works\Udemy C#\C# uygulama geliştirerek\Kitaplik_Proje\Kitaplik_Proje\obj\Debug\Kitaplik_Proje.pdb
